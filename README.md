@@ -1,2 +1,3 @@
-# hello-world
-hello world repository with readme
+Hello world.
+
+I am performing a quick GIT test.
